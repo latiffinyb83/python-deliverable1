@@ -43,3 +43,5 @@ elif int(putts) == 6:
     else:
         print("Great job, " + name)
         print("your total par was " + str(subtotal -18))
+
+
